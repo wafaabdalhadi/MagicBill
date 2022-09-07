@@ -1,4 +1,4 @@
-# magicbill
+# MAgicBill
 
 A new Flutter project.
 
@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+https://user-images.githubusercontent.com/85899817/188817300-c97323e8-135d-4e86-a3de-bb28a7ebdd26.mp4
+
